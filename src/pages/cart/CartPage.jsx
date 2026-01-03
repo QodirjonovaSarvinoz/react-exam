@@ -19,7 +19,7 @@ const CartPage = () => {
 
   return (
     <div className="max-w-7xl mx-auto py-10 px-4">
-      <h2 className="text-2xl font-semibold mb-6">Sizning korzinka</h2>
+      <h2 className="text-2xl font-semibold mb-6">Sizning mahsulotlaringiz</h2>
 
       <div className="space-y-4">
         {cartItems.map((item) => (
